@@ -1,4 +1,3 @@
-<img src="https://www.csuohio.edu/engineering/sites/csuohio.edu.engineering/files/ComputerScience.jpg" hight="1000">
 
 ### Hi there 👋,I'm Rawan Shareef
 -----------------------------------------------------------
