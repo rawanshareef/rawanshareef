@@ -1,5 +1,5 @@
 
-### Hi there 👋,I'm Rawan Shareef
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">,I'm Rawan Shareef
 -----------------------------------------------------------
 **:mortar_board:I am a computer science student**:computer:
 
@@ -13,5 +13,4 @@
 
 <img src="https://secrethub.io/img/vs-code.svg" width="50"><img src="http://1.bp.blogspot.com/-H3jQg1kGK8U/U0hKr2g4qGI/AAAAAAAAEHc/NZ5eB-tj7YQ/s1600/ubuntu+logo.png" width="50"><img src="https://blog.desdelinux.net/wp-content/uploads/2019/11/tux-linux.jpg.webp" width="50"><img src="https://www.ethicalhacker.net/wp-content/uploads/columns/chappell/tshark/wireshark_app_logo.png" width="50">
 <img src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" width="50">
-
 
