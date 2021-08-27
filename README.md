@@ -3,14 +3,12 @@
 -----------------------------------------------------------
 **:mortar_board:I am a computer science student**:computer:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanshareef&theme=slateorange&layout=compact" />
+<a href="https://github.com/rawanshareef/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanshareef&theme=bg_color&layout=compact" />
 </a>
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rawanshareef&show_icons=true&theme=vue-dark&layout=compact&line_height=20" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawanshareef&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 
 ### Languages and Tools:
