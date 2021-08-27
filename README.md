@@ -9,11 +9,10 @@
 
 
 ### Software & Apps:
-<img src="https://softotornix.com/wp-content/uploads/2019/03/eclipse.jpg" width="50"><img src="https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png" width="50"><img src="https://user-images.githubusercontent.com/57855070/98332075-a4b2b580-2006-11eb-95ff-906388b38446.png" width="50">
-
-<img src="https://secrethub.io/img/vs-code.svg" width="50"><img src="http://1.bp.blogspot.com/-H3jQg1kGK8U/U0hKr2g4qGI/AAAAAAAAEHc/NZ5eB-tj7YQ/s1600/ubuntu+logo.png" width="50"><img src="https://blog.desdelinux.net/wp-content/uploads/2019/11/tux-linux.jpg.webp" width="50"><img src="https://www.ethicalhacker.net/wp-content/uploads/columns/chappell/tshark/wireshark_app_logo.png" width="50">
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="45" height="45"/>  </a>
+<img src="https://softotornix.com/wp-content/uploads/2019/03/eclipse.jpg" width="50"><a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="45" height="45"/></a><a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="45" height="45"/></a><img src="http://1.bp.blogspot.com/-H3jQg1kGK8U/U0hKr2g4qGI/AAAAAAAAEHc/NZ5eB-tj7YQ/s1600/ubuntu+logo.png" width="45"><img src="https://blog.desdelinux.net/wp-content/uploads/2019/11/tux-linux.jpg.webp" width="50"><img src="https://www.ethicalhacker.net/wp-content/uploads/columns/chappell/tshark/wireshark_app_logo.png" width="50">
 <img src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" width="50">
-
+<a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>  </a>
 ---------------------------------------------------------------------------------
 ### My linkedin:
 
