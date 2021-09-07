@@ -3,6 +3,9 @@
 -----------------------------------------------------------
 **:mortar_board:I am a computer science student**:computer:
 
+<a href="https://github.com/rawanshareef/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanshareef&theme=bg_color&layout=compact" />
+</a>
 
 
 
