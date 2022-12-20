@@ -1,11 +1,8 @@
 
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">,I'm Rawan Shareef
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">,I'm Rawan Shareef 
 -----------------------------------------------------------
 **:mortar_board:I am a computer science student**:computer:
 
-<a href="https://github.com/rawanshareef/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanshareef&theme=bg_color&layout=compact" />
-</a>
 
 
 
