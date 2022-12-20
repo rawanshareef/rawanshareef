@@ -32,8 +32,7 @@
 <img src="https://downloadeasytools.com/wp-content/uploads/2021/08/mp_logo_apmc-300x300-1.jpg" width="50">
 <img src="https://www.snt.com.mk/arcsight-logo.jpg" width="50">
 <img src="https://dist.neo4j.com/wp-content/uploads/20170215205148/zenoss.png" width="50">
-<img src="https://www.checkpoint.com/wp-content/uploads/tile-smartconsole-logo.jpg" width="50">
-<img src="https://www.sngular.com/wp-content/uploads/2019/11/Kotlin-Blog.png" width="200" >
+<img src="https://www.checkpoint.com/wp-content/uploads/tile-smartconsole-logo.jpg" width="50"><img src="https://www.sngular.com/wp-content/uploads/2019/11/Kotlin-Blog.png" width="200" >
 
 
 
