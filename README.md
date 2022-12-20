@@ -24,8 +24,8 @@
 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="45" height="45"/></a><a href="https://www.jetbrains.com/pycharm/" target="PyCharm">
 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="45" height="45"/></a>
 <img src="http://1.bp.blogspot.com/-H3jQg1kGK8U/U0hKr2g4qGI/AAAAAAAAEHc/NZ5eB-tj7YQ/s1600/ubuntu+logo.png" width="45">
-<img src="https://blog.desdelinux.net/wp-content/uploads/2019/11/tux-linux.jpg.webp" width="50">
-<img src="https://www.ethicalhacker.net/wp-content/uploads/columns/chappell/tshark/wireshark_app_logo.png" width="50"><a href="https://www.mysql.com/"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/300px-NewTux.svg.png" width="50">
+<img src="https://www.freecodecamp.org/news/content/images/2020/08/wireshark-1.png" width="50"><a href="https://www.mysql.com/"> 
 <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="git"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>  </a>
@@ -33,6 +33,11 @@
 <img src="https://www.snt.com.mk/arcsight-logo.jpg" width="50">
 <img src="https://dist.neo4j.com/wp-content/uploads/20170215205148/zenoss.png" width="50">
 <img src="https://www.checkpoint.com/wp-content/uploads/tile-smartconsole-logo.jpg" width="50">
+
+<img src="https://www.sngular.com/wp-content/uploads/2019/11/Kotlin-Blog.png" width="200" >
+
+
+
 ---------------------------------------------------------------------------------
 ### My linkedin:
 
