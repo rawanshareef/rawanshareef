@@ -1,7 +1,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">,I'm Rawan Shareef 
 -----------------------------------------------------------
-**:mortar_board:I am a computer science graduate**:computer:
+**:mortar_board: B.Sc in Computer Science and Mathematics**:computer:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawanshareef&label=Profile%20views&color=0e75b6&style=flat" alt="rawanshareef" /> </p>
 
 <a href="https://github.com/rawanshareef/github-readme-stats">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanshareef&theme=bg_color&layout=compact" />
